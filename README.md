@@ -1,7 +1,11 @@
 # ffmpeg-dotnet
 .net wrapper for some ffmpeg tasks
 
+```bash
+wget https://github.com/alexeygrigorev/ffmpeg-dotnet/releases/download/init/ffmpeg.exe
 ```
+
+```bash
 dotnet build
 cp ffmpeg.exe bin/Debug/net8.0-windows/
 
