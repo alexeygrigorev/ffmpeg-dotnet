@@ -1,5 +1,9 @@
 # ffmpeg-dotnet
+
 .net wrapper for some ffmpeg tasks
+
+![image](https://github.com/alexeygrigorev/ffmpeg-dotnet/assets/875246/c39a2b10-18bb-4b32-bca8-0c27cf04a640)
+
 
 ```bash
 wget https://github.com/alexeygrigorev/ffmpeg-dotnet/releases/download/init/ffmpeg.exe
